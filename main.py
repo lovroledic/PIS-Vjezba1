@@ -9,5 +9,5 @@ def nova_funkcija():
 
 # Ovo je moj komentar BonraMat
 
-def nova_metoda(self):
-    return "Ovo je nova metoda"
+def nova_metoda():
+    return "Ovo je nova metoda 2."
